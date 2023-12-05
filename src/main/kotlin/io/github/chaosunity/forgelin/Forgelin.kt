@@ -17,7 +17,7 @@ object Forgelin {
      */
     const val ADAPTER = "io.github.chaosunity.forgelin.KotlinAdapter"
 
-    const val MOD_ID = "forgelin_continuous"
+    const val MOD_ID = "forgelin"
     const val MOD_NAME = "Forgelin Continuous"
     const val MOD_VERSION = "@version@"
 
