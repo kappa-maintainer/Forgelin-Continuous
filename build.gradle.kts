@@ -90,7 +90,7 @@ tasks {
                 "version" to "$kotlinVersion.$subVersion",
                 "mcversion" to mcVersion,
                 "modname" to modName,
-                "modid" to modName.toLowerCase(),
+                "modid" to "forgelin",
                 "modname" to modName,
                 "link" to repositoryLink,
                 "description" to modDescription
